@@ -6,7 +6,7 @@
 
 [Пример использования функции](https://github.com/ybalaev1/changes-history-appstore/blob/main/example.ts)
 
-## Использование фукнции
+## Использование функции
 ```ts
 // appVersion.ts
 
